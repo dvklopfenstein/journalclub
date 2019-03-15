@@ -31,7 +31,7 @@ dampierlab_rebase:
 # you may need to force the push
 # in order to push it to your own forked repository on GitHub.
 # You'd do that with:
-dampierlab_rebase:
+dampierlab_push:
 	git push -f origin master
 
 
